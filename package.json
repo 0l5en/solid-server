@@ -1,0 +1,5 @@
+{
+	"name": "solid-server-openshift",
+	"version": "0.1.0",
+	"description": "an example to integrate solid server nodejs application"
+}
